@@ -1,0 +1,33 @@
+[
+  {
+    "id": "demo-law11-001",
+    "law_number": 11,
+    "section": "DEMO-01",
+    "title": "[MINH HỌA CÓ LỖI] Mục làm mốc",
+    "original_text": "[MINH HỌA] Đây không phải văn bản luật thật.",
+    "explanation_vi": "[MINH HỌA] Mục làm mốc cho việc so sánh mã và phiên bản.",
+    "source_url": "https://example.invalid/illustration-only/law-11",
+    "edition": "ILLUSTRATION-ONLY-v1",
+    "review_status": "draft"
+  },
+  {
+    "id": "demo-law11-001",
+    "law_number": 11,
+    "section": "DEMO-02",
+    "title": "[MINH HỌA CÓ LỖI] Trùng mã và thiếu trường",
+    "original_text": "[MINH HỌA] Cố ý thiếu explanation_vi và source_url để thử bộ kiểm tra.",
+    "edition": "ILLUSTRATION-ONLY-v1",
+    "review_status": "draft"
+  },
+  {
+    "id": "demo-law11-003",
+    "law_number": 11,
+    "section": "DEMO-03",
+    "title": "[MINH HỌA CÓ LỖI] Sai trạng thái và khác phiên bản",
+    "original_text": "[MINH HỌA] Đây không phải văn bản luật thật.",
+    "explanation_vi": "[MINH HỌA] Cố ý dùng pending và phiên bản khác để thử bộ kiểm tra.",
+    "source_url": "https://example.invalid/illustration-only/law-11",
+    "edition": "ILLUSTRATION-ONLY-v2",
+    "review_status": "pending"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "demo-law11-001",
+    "law_number": 11,
+    "section": "DEMO-01",
+    "title": "[MINH HỌA] Mục dữ liệu thứ nhất",
+    "original_text": "[MINH HỌA] Chỗ dành cho văn bản gốc sau khi chọn nguồn; đây không phải nội dung luật.",
+    "explanation_vi": "[MINH HỌA] Chỗ dành cho giải thích tiếng Việt sau khi đối chiếu nguồn; chưa có lời giải thích luật.",
+    "source_url": "https://example.invalid/illustration-only/law-11",
+    "edition": "ILLUSTRATION-ONLY-v1",
+    "review_status": "draft"
+  },
+  {
+    "id": "demo-law11-002",
+    "law_number": 11,
+    "section": "DEMO-02",
+    "title": "[MINH HỌA] Mục dữ liệu thứ hai",
+    "original_text": "[MINH HỌA] Văn bản giữ chỗ thứ hai, không trích dẫn điều khoản luật nào.",
+    "explanation_vi": "[MINH HỌA] Chưa biên soạn giải thích và chưa được người dùng duyệt.",
+    "source_url": "https://example.invalid/illustration-only/law-11",
+    "edition": "ILLUSTRATION-ONLY-v1",
+    "review_status": "draft"
+  }
+]

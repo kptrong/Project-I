@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 11 Nov 2026 09:48:56 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Age: 80817
+Cache-Control: public,max-age=0,must-revalidate
+Cache-Status: "Netlify Edge"; fwd=miss; fwd-status=200; stored
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=EsFJrV216hguaIgXv2O%2BtHrbvfC0Cw4SOiDwnmtHxBHc553lUU2H848%2Bi4gD9EyQCAxhPF4nZb2eBs8MgJuuOIrgIouyEaXYR3oGvtt4zu%2Fv8zR1RhFVbaHcIRONyni4KQ%3D%3D"}]}
+Server: cloudflare
+Vary: Accept-Encoding
+X-Nf-Request-Id: 01M72K30GDN9HZ9YFVQRGAGNE1
+cf-cache-status: HIT
+CF-RAY: a58c62568e1cfdbb-SIN
+
